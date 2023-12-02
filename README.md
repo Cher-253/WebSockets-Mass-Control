@@ -10,4 +10,7 @@ JavaScript: Script the magic behind the synchronized controls.
 
 Experience the fun by connecting two remote controls and witness the circles dance in tandem.  
 
-Watch the demo below!  
+Watch a mini demo below!  
+
+https://github.com/Cher-253/WebSockets-Mass-Control/assets/56059898/46b01a9b-6176-463c-a88e-ff9db4457574
+
